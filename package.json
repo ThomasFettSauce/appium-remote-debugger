@@ -30,6 +30,7 @@
     "bplist-creator": "0.0.7",
     "bplist-parser": "^0.1.0",
     "bufferpack": "0.0.6",
+    "dirty-json": "^0.6.0",
     "lodash": "^4.2.1",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
